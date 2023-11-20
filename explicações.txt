@@ -1,0 +1,12 @@
+PWD -> ver localização
+LS -> listar
+CD -> acessar pasta
+cd .. -> voltar p/ pasta anterior
+othersidemkn23.
+git init -> atualizado o repositorio
+git commit -> enviar arquivo
+git init -> inicializa repositorio
+git status -> conteudo dentro do repositorio
+git add -> adicionou repositorio
+git log -> mostra o usuario q alterou 
+git remote -> quais terminais remotos os comandos devem operar
